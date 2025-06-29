@@ -39,7 +39,7 @@ https://你的用户名.github.io/aiwriter-site/
 
 ## 📧 示例配置
 
-SMTP 发信邮箱: `atours@qq.com`  
+SMTP 发信邮箱: `***@qq.com`  
 收件邮箱: `ouym@hotmail.com`
 
 使用 PHPMailer 实现留言自动转发到邮箱。
